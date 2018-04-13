@@ -12,7 +12,7 @@ body{
 </head>
 <body>
 <h1><center>ROSE ANN JANINE B. VILLARIN</h1></center>
-<center><img src="ros.jpg" height="300" width="350"></center>
+<center><img src="rj.jpg" height="300" width="350"></center>
 <p><center><a href="content.php" target="content">HOME</a></p></center>
 <h1><center>INFORMATION</h1></center>
 <p><b>First Name:</b>Rose Ann Janine</p>
