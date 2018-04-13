@@ -12,7 +12,7 @@ body{
 </head>
 <body>
 <h1><center>LANCE JEDRICKE B. VILLARIN</h1></center>
-<center><img src="lj.jpg" height="300" width="350"></center>
+<center><img src="totoy.jpg" height="300" width="350"></center>
 <p><center><a href="content.php" target="content">HOME</a></p></center>
 <h1><center>INFORMATION</h1></center>
 <p><b>First Name:</b>Lance Jedricke</p>
