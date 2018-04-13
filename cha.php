@@ -12,7 +12,7 @@ body{
 </head>
 <body>
 <center><h1>CHARITY ANN B. VILLARIN</h1></center>
-<center><img src="cha.jpg" height="300" width="350"></center>
+<center><img src="ki.jpg" height="300" width="350"></center>
 <p><center><a href="content.php" target="content">HOME</a></p></center>
 <h1><center>INFORMATION</h1></center>
 <p><b>First Name:</b>Charity</p>
